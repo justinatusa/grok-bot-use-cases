@@ -103,7 +103,6 @@
 ### 多 bot 协作与沟通渠道
 
 - 一个 CoS 管 8 个 bot，同时跑 500 多个 agent：https://x.com/0xGenAi/status/2109406731499389058
-- 10 个 bot 加一个协调者运营一家 IT 公司：https://x.com/gdz_it/status/2108977193846005878
 - 13 个 bot，每个只管一摊：https://x.com/ALThorne_Toren/status/2110345240024391964
 - 9 个 bot，什么都做，但什么都不发：https://x.com/noahfleming/status/2110347502272524540
 - 只跟一个 bot 说话，决定一键回答：https://x.com/robcressy/status/2110159155566670279
